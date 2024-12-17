@@ -1,0 +1,46 @@
+* {
+    background-color: #FFF8DC;
+    color: #222222;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.hero-h1 {
+    color: #FF5722;
+    text-align: center;
+    font-size: 2.986rem;
+    font-weight:900;
+}
+
+.hero-p {
+    text-align: center;
+}
+
+.hero-links {
+    font-weight: 600;
+}
+
+.hero-img {
+    display: block;
+    height: 18.75rem;
+    margin: auto;
+    width: 18.75rem;
+}
+
+.intro-h2,
+.intro-em {
+    font-size: 2.488rem;
+    font-weight:800;
+}
+
+.ingredients-h3,
+.steps-h3 {
+    font-size: 2.074rem;
+    font-weight:700;
+}
+
+.dish-components-h4  {
+    font-size: 1.728rem;
+    font-weight:600;
+}
